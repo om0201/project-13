@@ -186,6 +186,10 @@ body {
   text-align: center;
 }
 
+.bg-circle-orange {
+  background-color: #ffcf7668;
+}
+
 .bg-circle-green {
   background-color: #b7ff6a57;
 }
